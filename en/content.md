@@ -74,8 +74,12 @@ You should also give each young person a Stay Safe leaflet (rpf.io/scouts-staysa
 
 + Get the young people to open the MakeCode editor on their own computers and connect their micro:bits. 
 
-+ Let them work through the rest of the instructions. 
++ Let them work through the rest of the instructions. Things to look out for:
+  + Check that the maximum in `pick random` matches the number of actions otherwise some actions won't get chosen.
+  + Make sure that the metal part of the crocodile clip touches the pin, the sleeve is not conductive.
 
 + As pairs finish they can try out their game and join others to make larger groups. 
 
-+ Close with a reminder that we interact with computers though inputs and outputs and a discussion about how it felt to make their own electronic game rather than just buying one. Can they think of other games that they could make that would fit in with Scouting activities?
++ If you have time, you can provide additional electronic components and craft materials so they can extend the game. 
+
++ Close with a discussion about how it felt to make their own electronic game rather than just buying one. Can they think of other games that they could make that would fit in with Scouting activities?
