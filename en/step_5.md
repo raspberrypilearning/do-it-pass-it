@@ -6,23 +6,25 @@ Once you've done that you can have a go at adding your own actions.
 
 + Change your `pickrandom`{:class="microbitmath"} block so that it chooses a number between 1 and 3. 
 
-  ![game setup code](images/doit-random-3.png)
+  ![screenshot](images/doit-random-3.png)
 
 + Add an `else if`{:class="microbitlogic"} section to your action output code by clicking on the plus button. 
 
   Change your code so that it displays the maraca if the action is 2 and add a `show number`{:class="microbitbasic"} block to the else section to display a 0. 
 
-   ![game setup code](images/doit-show-0.png)
+   ![screenshot](images/doit-show-0.png)
 
 + Now add code to detect that Pin 0 has been connected and then released (pressed).
 
-  ![game setup code](images/doit-0-pressed.png)
+  ![screenshot](images/doit-0-pressed.png)
 
 + You can test your code in the simulator by clicking on Pin 0 when a '0' is shown on the display. 
 
 + Download your code to your micro:bit. 
 
 + Connect one end of a crocodile clip lead to GND. 
+
+  ![screenshot](images/doit-croc.png)
 
 + Test your game. When a '0' appears on the display, tap the other end of the crocodile clip lead on the 0 pin. 
 

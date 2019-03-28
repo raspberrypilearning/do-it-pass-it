@@ -14,7 +14,7 @@ Next you will turn your project into a game with a timer and a score. The MakeCo
 
   ![game setup code](images/doit-score.png)
 
-+ Now test your game and you will see a score at the end. 
++ Now test your game and you will see a score at the end. You will also see a short animation when the score increases.
 
 + To play the game again, press the reset button on the back of the micro:bit. 
 

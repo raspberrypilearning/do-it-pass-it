@@ -25,6 +25,8 @@ Per pair
 + Battery pack and batteries
 + One crocodile clip lead (not essential)
 + A torch
++ Optionally, additional input and output components such as buttons and buzzers.
++ Optionally, craft materials such as elastic bands, card board, sticky tape and scissors.
 + Activity handouts
 
 ### If your meeting place has WiFi
@@ -38,9 +40,8 @@ Download the micro:bit MakeCode app beforehand (Windows only); refer to the micr
 ## Key messages
 
 + Computers interact with the world through inputs and outputs
-+ Inputs such as pressing a button send information into a computer
-+ Outputs such as a display screen send information out of a computer
 + The BBC micro:bit is a small computer with built-in inputs and a display of 25 LED lights. You can also connect additional inputs and outputs to the micro:bit using its pins (labelled 0, 1 and 2).
++ You can make your own electronic gadgets with a programmable device, code, electronic components and other materials. 
 
 ## Alternatives
 
@@ -55,6 +56,7 @@ You should also give each young person a Stay Safe leaflet (rpf.io/scouts-staysa
 ## Adaptability
 
 + The project is staged so young people do not have to complete later steps to have a complete game. 
++ Depending on how much time you have a available, you can make a simple version of the project or you can add additional components and craft materials to extend the project.
 + Young people with more advanced coding skills could create the same project using JavaScript in the MakeCode editor or Python with the Mu editor.
 
 ## Community and sharing
