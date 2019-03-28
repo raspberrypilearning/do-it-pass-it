@@ -1,3 +1,9 @@
+## Did you know?
+The Simon electronic memory game was first made in 1978. It has a microcontroller (mini computer like the micro:bit), electronics components code and a plastic case. The Bop it! game introduced in 1996 uses similar technology to create a game with voice commands and a variety of inputs. Now technology has reached the point where young people can make their own electronic games using programmable devices such as the BBC micro:bit, Arduino and Raspberry Pi.
+
+## Discuss
+What electronic toys and games have you played with? 
+
 ## Display an action
 
 The micro:bit has a display of 25 red LED lights that provide an **output**. You will program the display to show an action for the player to perform. 
