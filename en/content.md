@@ -55,3 +55,20 @@ You should also give each young person a Stay Safe leaflet (rpf.io/scouts-staysa
 
 + The project is staged so young people do not have to complete later steps to have a complete game. 
 + Young people with more advanced coding skills could create the same project using JavaScript in the MakeCode editor or Python with the Mu editor.
+
+## Leader Instructions
+
++ If they have not used them before, introduce the young people to the micro:bit. Explain that micro:bits not only have two buttons
+(for input) and a small LED display (for output), they also have sensors such as a light sensor and an accelerometer that can detect movement. Also point out the pins (labelled 0, 1, 2) that can be used to connect additional inputs and outputs.
+
++ Explain that young people will be creating a game that can be played in a circle at camp or just for fun. They will program the micro:bit to display images that correspond to actions they must perform such as pressing a button or shining a light. Each player must perform an action and then pass the micro:bit to the next player. The goal is to score as many points as possible before the timer runs out. 
+
++ If the young people have not used the micro:bit with MakeCode before, demonstrate the editor and show them how to connect the micro:bit with a USB cable and download a program. Explain that blocks are colour-coded to make them easy to find.
+
++ Get the young people to open the MakeCode editor on their own computers and connect their micro:bits. 
+
++ Let them work through the rest of the instructions. 
+
++ As pairs finish they can try out their game and join others to make larger groups. 
+
++ Close with a reminder that we interact with computers though inputs and outputs and a discussion about how it felt to make their own electronic game rather than just buying one. Can they think of other games that they could make that would fit in with Scouting activities?
