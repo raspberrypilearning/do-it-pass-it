@@ -10,16 +10,16 @@ You'll start with showing a letter 'A' to tell the player to press the 'A' butto
 
   ![Add an action variable](images/doit-action-variable.png)
 
-  New blocks will be added to the Variables section to set and change the `action` variable.
+  New blocks will be added to the `Variables`{:class="microbitvariables"} section to set and change the `action`{:class="microbitvariables"} variable.
 
-+ Add code to your `forever` loop to randomly choose an action: 1 for the A button and 2 for a shake. 
++ Add code to your `forever`{:class="microbitbasic"} loop to randomly choose an action: 1 for the A button and 2 for a shake. 
 
   ![Random action](images/doit-action-random.png)
 
-+ Add code to the bottom of your `forever` loop to display an image corresponding to the chosen action: 
++ Add code to the bottom of your `forever`{:class="microbitbasic"} loop to display an image corresponding to the chosen action: 
 
   ![Random action](images/doit-show-actions.png)
 
-  Click on the squares in the `show leds` block to make the maraca image.
+  Click on the squares in the `show leds`{:class="microbitbasic"} block to make the maraca image.
 
-+ Your code will automatically run in the simulator. You should randomly see either the letter A or a maraca (shaker) image. 
++ Your code will automatically run in the simulator. You should randomly see either the letter 'A' or a maraca (shaker) image. 
