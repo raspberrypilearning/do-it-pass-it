@@ -10,3 +10,4 @@ steps:
   - title: Display an action
   - title: Get input
   - title: Keep score
+  - title: More input actions
