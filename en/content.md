@@ -56,6 +56,10 @@ You should also give each young person a Stay Safe leaflet (rpf.io/scouts-staysa
 + The project is staged so young people do not have to complete later steps to have a complete game. 
 + Young people with more advanced coding skills could create the same project using JavaScript in the MakeCode editor or Python with the Mu editor.
 
+## Community and sharing
+
++ Why not take your finished games to a district Scout camp and encourage other sections to earn their Digital Making badge.
+
 ## Leader Instructions
 
 + If they have not used them before, introduce the young people to the micro:bit. Explain that micro:bits not only have two buttons
