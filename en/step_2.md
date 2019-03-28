@@ -18,7 +18,7 @@ You'll start with showing a letter 'A' to tell the player to press the 'A' butto
 
 + Add code to the bottom of your `forever` loop to display an image corresponding to the chosen action: 
 
-  ![Random action](images/doit-action-show.png)
+  ![Random action](images/doit-show-actions.png)
 
   Click on the squares in the `show leds` block to make the maraca image.
 
