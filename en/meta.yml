@@ -7,5 +7,6 @@ copyedit: false
 last_tested: "2019-03-27"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Display an action
+  - title: Get input
+  - title: Keep score

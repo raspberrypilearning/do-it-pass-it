@@ -24,6 +24,7 @@ Per pair
 + One USB A to micro USB B cable for programming (not needed for mobile devices)
 + Battery pack and batteries
 + One crocodile clip lead (not essential)
++ A torch
 + Activity handouts
 
 ### If your meeting place has WiFi
